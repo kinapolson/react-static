@@ -3,7 +3,7 @@ import React from "react";
 function Content() {
     return (
         <div>
-            <p> King Acrisius of Argos wanted a male heir to his throne, 
+            <p> .King Acrisius of Argos wanted a male heir to his throne, 
                 so he consulted an Oracle to see of his future. The Oracle
                 told him he would receive an heir through his daughter, Danae.
                 However, this child would eventually be the cause of his demise.
